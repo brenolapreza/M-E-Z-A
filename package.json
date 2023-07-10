@@ -13,7 +13,6 @@
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
     "autoprefixer": "10.4.14",
-    "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
     "postcss": "8.4.25",
@@ -25,6 +24,13 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@types/react-resizable": "^3.0.4"
+    "@types/react-resizable": "^3.0.4",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "3.0.0"
   }
 }
